@@ -20,8 +20,9 @@ and, some of which can be used online.
 ## Links...
 
 AutoDraw  
-- https://www.autodraw.com/
-
+- https://www.autodraw.com/  
+- https://www.gimp.org/tutorials/  
+  
 GIMP  
 - https://www.gimp.org/  
 
