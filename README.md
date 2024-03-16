@@ -21,10 +21,14 @@ and, some of which can be used online.
 
 AutoDraw  
 - https://www.autodraw.com/  
-- https://www.gimp.org/tutorials/  
   
 GIMP  
 - https://www.gimp.org/  
+- https://www.gimp.org/tutorials/  
+
+Inkscape    
+- https://inkscape.org/  
+- https://inkscape.org/learn/tutorials/  
 
 Kleki  
 - https://kleki.com
