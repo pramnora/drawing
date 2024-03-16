@@ -15,4 +15,4 @@ Sketch.io
 - https://sketch.io  
 
 SmartDraw  
-- app.smartdraw.com  
+- https://app.smartdraw.com  
